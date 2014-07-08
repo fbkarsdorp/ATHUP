@@ -1,0 +1,3 @@
+Digital humanists use digital methods to help them answer research questions in the humanities. The vast majority of digital humanists rely on existing tools to perform the necessary digital operations on their data. We find this to be both severely limiting for the scholar and harmful for the discipline of Digital Humanities. In this book we will explore one avenue to Digital Humanities liberation and empowerment: writing your own tools. We will make use of the powerful programming language Python to explore data sets using simple yet powerful scripts to harness the potential of existing algorithms and techniques.
+
+
